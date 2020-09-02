@@ -1,0 +1,16 @@
+.box{
+    background: #ffe259;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #ffa751, #ffe259);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #ffa751, #ffe259); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-repeat: no-repeat;
+   
+}
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(255, 229, 83);
+}
+
+body{
+    background-image:url("https://i.blogs.es/7bb0c9/videogame/450_1000.jpg");
+}
